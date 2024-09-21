@@ -1,0 +1,3 @@
+/home/ilya/hse-cpp-course/s2/cmake-build-debug/CMakeFiles/s2.dir
+/home/ilya/hse-cpp-course/s2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilya/hse-cpp-course/s2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
